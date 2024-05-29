@@ -15,14 +15,12 @@ Maven
 
      ```bash
         git clone https://github.com/davidsonaguiar/todo-api-spring-boot.git
-        Use o código com cuidado.
      ```
 
 2. Navegar para o diretório do projeto:
 
     ```bash
       cd todo
-      Use o código com cuidado.
    ```
 3. Instalar dependências:
 
