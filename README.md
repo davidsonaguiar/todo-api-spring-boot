@@ -13,18 +13,18 @@ Maven
 
 1. Clonar o repositório:
 
-     ```bash
+     ```shell
         git clone https://github.com/davidsonaguiar/todo-api-spring-boot.git
      ```
 
 2. Navegar para o diretório do projeto:
 
-    ```bash
+    ```shell
       cd todo
    ```
 3. Instalar dependências:
 
-    ```bash
+    ```shell
       mvn install
     ```             
 
@@ -32,7 +32,7 @@ Maven
 
 1. Iniciar a aplicação:
 
-    ```bash
+    ```shell
         mvn spring-boot:run
    ```
 
