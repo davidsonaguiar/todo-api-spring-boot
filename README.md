@@ -14,7 +14,7 @@ Maven
 1. Clonar o repositório:
 
      ```bash
-        git clone https://github.com/davidsonaguiar/java-api-todo.git
+        git clone https://github.com/davidsonaguiar/todo-api-spring-boot.git
         Use o código com cuidado.
      ```
 
@@ -28,7 +28,6 @@ Maven
 
     ```bash
       mvn install
-      Use o código com cuidado.
     ```             
 
 ## Executando a Aplicação
@@ -37,7 +36,6 @@ Maven
 
     ```bash
         mvn spring-boot:run
-        Use o código com cuidado.
    ```
 
     Isso iniciará a API na porta padrão do Spring Boot (geralmente 8080).
