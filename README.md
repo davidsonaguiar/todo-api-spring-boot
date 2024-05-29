@@ -87,6 +87,12 @@ Exclui uma tarefa por seu ID.
 
 * Retorna um erro não encontrado (status HTTP 404) se a tarefa a ser excluída não puder ser encontrada.
 
+## Swagger
+
+A API Todo inclui integração com Swagger para documentação e visualização interativa. Para acessar a interface do Swagger, acesse:
+
+`http://localhost:8080/swagger-ui.html`
+
 ## Tecnologias Utilizadas
 
 * Spring Boot
